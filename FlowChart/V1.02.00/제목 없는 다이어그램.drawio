@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T02:46:00.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IrmEmlw0tufoUk1DhBS7" version="21.0.2" type="github"><diagram name="페이지-1" id="YAsiMJQrhJQLEK5Vy4Gn">5Zrdc5s4EMD/Gs/cPTQDAmx4jB2n7UyvzZzb6eWpI4MMagTihIjt++srGfFl4Zhr7dDELwlaJFns7k+7+hhZs3jzlsE0+osGiIyAEWxG1s0IAM8zxF8p2BYCMAFOIQkZDgqZWQsW+D+khKphmOMAZa2KnFLCcdoW+jRJkM9bMsgYXberrShp/2oKQ6QJFj4kuvQrDnhUSF0wqeXvEA6j8pfNsVe8iWFZWX1JFsGArhsiaz6yZoxSXjzFmxkiUnmlXop2twfeVgNjKOF9GuD84a29Snn2ZWWG08lnhhbuG1N1k/Ft+cUoEApQRcp4REOaQDKvpVNG8yRAsltDlOo6HyhNhdAUwu+I862yJsw5FaKIx0S9RRvM/5HNrxxVum+8udmonneFbaNwhxiOEUeslCWcbRsdyeJ9813d1a5U9lV8s/zQg7os9UJz5qOnFKh8ErIQ8SfqWZXFBSqIiq9gW9GOIQI5fmyPAyqfDat6tVnFg7Ls/7Fy0e8jJLn6pYUYMNdMn3FGHyo/B22jCf9NZb14E0rUr1aErv1IdHOVyc6+yTrrCHO0SOFOZWtRrVL2I2IcbZ5Wt64e1QA4qsm2nBwUU+sayUoWNXAcG2fSKNA0Ok+CF6xPMLRCTfBSJqITTh5Wz8nDGXLysDRX/5SiREimOedUPswI9h9051f+LRQDCUGECjeP9xDQ+EgbM3yrYWPq76SidgXZMWS+srkpe82KZ+MKWCcCyNgDyNP5Ac/Lz2QQfoYPwHZPhszxkBDZGkS3WJgAGAtEZNoq598xEeOfLpl4CuXTH18X78WL97FMUYFBmawOH+XztTDSNsPZnxdFnTkBLeqcjjQAOO5zUmddYNRyehLnDQmcowF3LfUIjA9C2bkE7rPwbInU3yhDeirc9uwu328YBC4zSnKOrmsA2jjYndidAgm3HYjApAMJuyMQOWdDwr5AJLy+QcjotmZvJlTTO4oTXnuBtZeO2MaedYuBqVZ7Bq6G8fM2946niJTs4tcsgomMZq+DNssenDbnQtO+cn/wKHL2kFGoHKVOxh1N83QkNyQlFnvJ4Ougwy7XJMfosK1zqd/V1P+RDgHMKR1/3NPxwZCOD3THv0fZpc5VfU1mDpoyl8Ns5szJVpudrFt9gopovMyz45PTCWYZYLQXgeOurUuvYxHonm0veJity9/Ar/umvYdM+kx+raen73AgPXoep1z0P4ax9NNkmRX768YU+g/hzkL1/svLjMl2ufVR0uL2zFjPFpPBpWas1fH1UVp+NWXtXiQ6btsVXOt5F4nliBsY3uAsJXBbxRYUqGiTyWGpXdF/c3lCPlVB6COMUS2U+zk4e7EZ8z6dk/HQdFrD3gdo7N3UOzkH7gOURJstnmu8DxC9K+1fJDgl5n0P9YA7ZFAE+rHeHaM+yiR6t3nic7zbuFkWCSCTkO1TKv4Vq9nXQZ/XkUk+c2wcX2ps7HuKBwa9RwP0Y7zq/I5HkoeVImVV4IGT6s3xSEZeUSRz++6Mno8l78VEshPebDt7dHP7gnoeTr9kiH1afi+QI3CJiMJQLOEaAcmoYtlusMWF0e6adawDR12qGbGVDzbcSwKEfeEsclh3NMO7bq2bJeWcyjP4ssI1waF8wekev4evhNHkjbxq+o2hFRJWkzY6BbaW3d6y9UzzytHAHXdw+xNH6qLYMF8pqi/AFguN+hqxNf8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T04:11:15.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-m9kzvmd0TF5vcfm3Pu6" version="21.0.2" type="github">
+  <diagram name="페이지-1" id="YAsiMJQrhJQLEK5Vy4Gn">
+    <mxGraphModel dx="990" dy="2725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iukG4fptsUf1gB7TreS8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-1" target="iukG4fptsUf1gB7TreS8-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="251" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="251" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-3" target="iukG4fptsUf1gB7TreS8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-3" value="Open Button Click" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="201" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-4" target="iukG4fptsUf1gB7TreS8-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-4" value="File Select &lt;br&gt;(WSI Image or Save Analysis)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="172" y="500" width="258" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-5" target="iukG4fptsUf1gB7TreS8-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-5" value="Auto Logout Timer Reset" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="181" y="270" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-9" target="iukG4fptsUf1gB7TreS8-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="301" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-9" value="Open Button Color Change" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="181" y="340" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-10" target="iukG4fptsUf1gB7TreS8-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-10" value="Open Popup for File Select" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="181" y="417" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-18" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iukG4fptsUf1gB7TreS8-16" target="iukG4fptsUf1gB7TreS8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-16" target="iukG4fptsUf1gB7TreS8-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-16" value="Any File Select?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="620" width="198" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-19" target="iukG4fptsUf1gB7TreS8-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-19" value="Hide Empty&amp;nbsp; Background Image" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="680" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-21" target="iukG4fptsUf1gB7TreS8-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-21" value="Display Selected Files at &quot;File Name&quot; List" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="760" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iukG4fptsUf1gB7TreS8-23" target="iukG4fptsUf1gB7TreS8-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-23" value="Process Function by First Selected File Open" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="920" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iukG4fptsUf1gB7TreS8-24" target="iukG4fptsUf1gB7TreS8-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-24" value="Select the first file in the &quot;File Name&quot; list" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="840" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="iukG4fptsUf1gB7TreS8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iukG4fptsUf1gB7TreS8-28" target="iukG4fptsUf1gB7TreS8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Sample Open Process" tooltip="Sample Open Function" id="iukG4fptsUf1gB7TreS8-28">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+            <mxGeometry x="341" y="911.5" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
